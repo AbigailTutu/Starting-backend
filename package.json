@@ -1,0 +1,12 @@
+{
+  "name": "starting-backend",
+  "version": "1.0.0",
+  "description": "First time learning backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Abigail",
+  "license": "ISC"
+}
